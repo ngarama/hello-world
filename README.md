@@ -1,9 +1,5 @@
 # hello-world
 getting started
-Newwww changes 
-to 
-))))
-)))
-))
-)
-Read me edits
+I am checking how this worksc
+ckckc
+
